@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html lang="ja">
 <head>
-  <meta charset="utf-8">
-  <title>5/2実習</title>
-  <link rel="stylesheet" href="default.css" type="text/css">
+  <title>タイトル</title>
+  <link rel="stylesheet" href="css/default.css" type="text/css">
 </head>
 
 <body>
