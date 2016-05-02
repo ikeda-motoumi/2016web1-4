@@ -1,4 +1,3 @@
-<html lang="ja">
 <head>
   <title>お前ら</title>
   <link rel="stylesheet" href="css/default.css" type="text/css">
