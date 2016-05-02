@@ -7,7 +7,7 @@
 
 <h1><span>★</span>ゆっくりしていってね<span>★</span></h1>
 
-
+<p id="test">池田玄海のページです</p>
 
 </body>
 </html>
