@@ -12,10 +12,17 @@ h1 span{
     padding: 5px 20px;
 }
 
-p.greeting{
+p.greetingA{
  border-top:#6fbb9a 1px botted;
  text-align:center;
  font-size:1.5em;
+ font-weight:300;
+}
+
+p.greetingB{
+ border-top:#6fbb9a 1px botted;
+ text-align:center;
+ font-size:2em;
  font-weight:300;
 }
 
