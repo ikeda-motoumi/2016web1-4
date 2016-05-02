@@ -16,3 +16,8 @@ p.greeting{
  border-top:#6fbb9a 1px botted;
  text-align:center;
 }
+
+body{
+ background-color: #fbf9cc;
+ background-image: url(crystalwingsCG.jpg);
+}
