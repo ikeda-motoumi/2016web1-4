@@ -20,4 +20,5 @@ p.greeting{
 body{
  background-color: #fbf9cc;
  background-image: url(../img/crystalwingsCG.jpg);
+ background-repeat: repeat-x;
 }
