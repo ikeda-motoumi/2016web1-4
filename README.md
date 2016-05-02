@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html lang="ja">
 <head>
-  <title>タイトル</title>
+  <title>お前ら</title>
   <link rel="stylesheet" href="css/default.css" type="text/css">
 </head>
 
