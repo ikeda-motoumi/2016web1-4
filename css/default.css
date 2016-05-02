@@ -15,6 +15,8 @@ h1 span{
 p.greeting{
  border-top:#6fbb9a 1px botted;
  text-align:center;
+ font-size:1.5em;
+ font-weight:300;
 }
 
 body{
